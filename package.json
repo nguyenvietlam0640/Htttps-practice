@@ -1,0 +1,22 @@
+{
+  "name": "htttps-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenvietlam0640/Htttps-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenvietlam0640/Htttps-practice/issues"
+  },
+  "homepage": "https://github.com/nguyenvietlam0640/Htttps-practice#readme",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
